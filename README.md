@@ -5,7 +5,7 @@
 ### General Programming Practices
 
 It is important to realise that your programming choices will reflect the quality
-of your code and impact the productivity levels of your colleagues. Multidots - an agency specialising in web development for content publishers [coding standards](https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/) highlights the importance of code quality and coding standards to improve efficiency, minimises the risk of project failure, reduces complexity and makes debugging easier.
+of your code and impact the productivity levels of your colleagues. Multidots - an agency specialising in web development for content publishers [coding standards guideline](https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/) highlights the importance of code quality and coding standards to improve efficiency, minimises the risk of project failure, reduces complexity and makes debugging easier.
 
 Multidote coding standards 
 
@@ -27,7 +27,7 @@ Avoid over-complex structures and files
 Avoid deep-nested structures and large files. Split large files and functions into smaller components. 
 Focus on reusable components and functions
 
-For all programming languages refer to general [guidelines](https://firefox-source-docs.mozilla.org/code-quality/coding-style/index.html) for coding and formatting style recommended by the Firefox developement team.
+For all programming languages refer to general [guidelines](https://firefox-source-docs.mozilla.org/code-quality/coding-style/index.html) for coding and formatting styles recommended by the Firefox developement team.
 
 
 
