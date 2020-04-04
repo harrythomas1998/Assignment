@@ -42,9 +42,6 @@ It ensures
 * Consistency for both front end and back end
 * Less code, which also means less debugging
 
-#### Other Benefits
-![Component Based Software Development Life Cycle Models](https://www.computerscijournal.org/wp-content/uploads/2017/06/Vol10_No2_Com_Pre_Fig2.jpg)
-
 Further information about component-based development patterns can be found on [Jack Pritchard's CDD Insights Article](https://whatjackhasmade.co.uk/component-driven-development). 
 
 
