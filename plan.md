@@ -16,6 +16,6 @@ We will assign a section to each person of a single topic eg a section from codi
 
 When a person is finished each section they will commit and as a team we will review the work and together decide if it needs improvement. Each team member will redo step 8 - 9 until the team are in agreement that each section is complete to the highest standard
 
-After completing a topic we will move onto the next topic and re do steps 6 - 9
+After completing a topic we will continue on to the next topic and do steps 6 - 9 for each new topic
 
 We will then sign off and ensure the hand book is well written any changes needed will be decided through a pull request
