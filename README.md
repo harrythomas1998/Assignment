@@ -27,8 +27,7 @@ Avoid over-complex structures and files
 Avoid deep-nested structures and large files. Split large files and functions into smaller components. 
 Focus on reusable components and functions
 
-For all programming languages refer to general guidelines for coding and formatting style asadvised
-by firefox developement team [here](https://github.com/user/repo/blob/branch/other_file.md).
+For all programming languages refer to general [guidelines](https://github.com/user/repo/blob/branch/other_file.md) for coding and formatting style recommended by the Firefox developement team.
 
 
 
