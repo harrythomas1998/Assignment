@@ -1,6 +1,4 @@
-Harry creates the repo and everyone clones/forks it.
-
-We each make a dummy .md file and push it to github to make sure we all know how.
+Harry creates the repo and everyone clones/forks it
 
 Meet to discuss each task and how we will approach the assignment. Who will do what topic and how we will approach the searching of sources.
 
@@ -8,7 +6,7 @@ Set our plan and ensure we are all in agreement
 
 We will communicate with one another continuously as we search for good resources, Each time we find a good resource we will inform the team and add this to the google doc. This will ensure we don’t spend time looking at the same resource.
 
-after finding all our  resources we will meet and discuss our topics and the research we complete. 
+after finding all our  resources we will meet and discuss each topic in regards to the research we did
 
 Together we will agree on important sections of the first topic, and our general outlook on that section based on our research.
 
