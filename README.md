@@ -16,3 +16,6 @@ Follow the _**relative weighting scheme**_ when trying to prioritise any task. I
      * The risk incurred in producing the feature
      * The priority and rank are then determined by dividing the value score as below: 
      * (Benefit score + Penalty score) / (Cost score + Risk score)
+
+#### Story Point Diagram
+![Story Point Diagram](https://i0.wp.com/michaellant.com/wp-content/uploads/2010/05/StoryPriority.jpg)
