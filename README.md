@@ -53,7 +53,7 @@ Overly complex structures and unnecessary code can be avoided by effective refac
 
 * Project structure that will shape the file structure choices
 * Single task functions to simplify code and encourage code reusability
-* Parameters and how to make best use without over-parameterising methods
+* Parameters and how to make the best use without over-parameterising methods
 
 *Avoid*
 
