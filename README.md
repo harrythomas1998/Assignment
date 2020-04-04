@@ -25,7 +25,7 @@ For all programming languages refer to general [guidelines](https://firefox-sour
 
 #### Developement Style
 
-##### Reusability
+**Reusability**
 
 It is encouraged to become familiar with reusable coding patterns and apply them in all developement stages throughout projects. It will
 * Reduce the amount of code we have to write
@@ -34,7 +34,7 @@ It is encouraged to become familiar with reusable coding patterns and apply them
 
 Refer to [Perforce's Code Reuse Strategy](https://www.perforce.com/blog/qac/challenge-code-reuse-and-how-reuse-code-effectively) for further recommendations on the best practices to apply. 
 
-##### Component driven
+**Component driven**
 
 Component driven development is one of the best patterns for code reusability. 
 
@@ -46,17 +46,17 @@ It ensures
 Further information about component based developement patterns can be found on [Jack Pritchard's CDD Insights Article](https://whatjackhasmade.co.uk/component-driven-development). 
 
 
-##### Refactoring
+**Refactoring**
 
 Overly complex structures and unnecessary code can be avoided by effective refactoring practices which should be done by all developers before code review. 
 
-Consider
+*Consider*
 
 * Project structure that will shape the file structure choices
 * Single task functions to simplify code and encourage code reusability
 * Parameters and how to make best use without over-parametarising methods
 
-Avoid
+*Avoid*
 
 * Long classes - split into more classes
 * Overly-nested and long functions
