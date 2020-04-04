@@ -2,11 +2,10 @@
 
 ## Coding Standards
 
-### General Programming Practices
-
 It is important to realise that your programming choices will reflect the quality
-of your code and impact the productivity levels of your colleagues. Multidots - an agency specialising in web development for content publishers [coding standards guideline](https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/) highlights the importance of code quality and coding standards for improving efficiency, minimising risk of project failure, reducing complexity and simplifying debugging processes.
+of your code and impact the productivity levels of your colleagues. Multidots - an agency specialising in web development for content publishers [coding standards guideline](https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/) highlights the importance of code quality and coding standards for improving efficiency, minimising the risk of project failure, reducing complexity and simplifying debugging processes.
 
+### General Programming Practices
 
 #### Naming Conventions
 
@@ -23,11 +22,12 @@ To work together as a team, it is important that each developer effectively form
 
 For all programming languages refer to general [guidelines](https://firefox-source-docs.mozilla.org/code-quality/coding-style/index.html) for coding and formatting styles recommended by the Firefox developement team.
 
-#### Developement Style
+### Development Style
 
 **Reusability**
 
 It is encouraged to become familiar with reusable coding patterns and apply them in all developement stages throughout projects. It will
+
 * Reduce the amount of code we have to write
 * Increase team efficiency
 * Allow us to maximise resources and developement times
