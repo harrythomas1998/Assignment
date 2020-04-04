@@ -19,3 +19,5 @@ Some of the benefits of WBS include:
 If you want to read further click [here](https://www.workamajig.com/blog/guide-to-work-breakdown-structures-wbs?hs_amp=true)
 
 ![WBS Diagram](bdt.png)
+
+
