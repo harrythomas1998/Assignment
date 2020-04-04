@@ -12,7 +12,7 @@ Together we will agree on important sections of the first topic, and our general
 
 We will assign a section to each person of a single topic eg a section from coding standards will be assigned to harry another to alina etc
 
- We will then begin to write each section
+ We will then begin to write each  at the same time 
 
 When a person is finished each section they will commit and as a team we will review the work and together decide if it needs improvement. Each team member will redo step 8 - 9 until the team are in agreement that each section is complete to the highest standard
 
