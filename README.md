@@ -130,3 +130,39 @@ Overly complex structures and unnecessary code can be avoided by effective refac
 * Overly-nested and long functions
 * Long parameter lists
 
+## **Code Reviews**
+
+To ensure we keep code review processing times low and make the most of our time both in development and as a team, it is important to follow a clear and efficient review structure, with excellent use of [git flow processes](https://gist.github.com/cferdinandi/ef665330286fd5d7127d).
+
+ Communication is key, and collaborators should agree on regular review times and provide detailed feedback to ensure developers are complying with the coding standards. Ensure constructive, yet informative feedback that will be useful for further self-development of your colleagues.
+
+#### Plan the review
+
+When carrying out reviews refer to project tasks and the sub-tasks to identify the goals of your reviews. 
+This will help you focus on the functionality that the code should deliver and ensure all expected standards are met. 
+
+Know what you are looking for in the code - what should be included/used and what should be avoided
+
+#### Review process
+
+The goal of a review is to
+
+* Ensure core functionality is delivered
+* Identify as many bugs as possible before launching the code to production
+
+
+ To keep reviews efficient, 
+ 
+  they should be short and focus on smaller chunks of code rather than multiple files. This also applies to developers, who are expected to request reviews for smaller workloads. This will keep the reviewers attentive and achieve the best results.  
+
+[These practices](https://www.perforce.com/blog/qac/9-best-practices-for-code-review) by Perforce, a software development company gives useful information for best code review processes. 
+
+![Cricible team workflow]https://confluence.atlassian.com/crucible/files/298977486/299140917/2/1346046215515/Moderated+review.png
+
+[The Crucible Workflow](https://confluence.atlassian.com/crucible/defining-your-workflow-298977486.html)
+
+
+[Microsoft Code Review Practices](https://www.slideshare.net/mgreiler/on-to-code-review-lessons-learned-at-microsoft)
+
+![Code Review Processes Diagram]https://image.slidesharecdn.com/ontocodereviewlessonslearnedatmicrosoft-160921120651/95/on-to-code-review-lessons-learned-at-microsoft-7-638.jpg?cb=1474459748
+
