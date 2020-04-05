@@ -19,7 +19,7 @@ If you want to read further click [here](https://www.workamajig.com/blog/guide-t
 
 ![WBS Diagram](bdt.png)
 
-### **Three-point estimation**
+### Three-point estimation
 
 After splitting the tasks into sub tasks, you now must ask the team or person responsible for each sub task to provide a three-point estimation.
 
@@ -47,15 +47,15 @@ Use three-point estimation for each task in your schedule, it will ensure that y
 [Read more here for some more detailed information](https://www.merixstudio.com/blog/three-point-estimation-software-development/ )
 
 
-### **Evaluate Importance and Priority**
+### Evaluate Importance and Priority
 
-#### **Prioritization Factors**
+#### Prioritization Factors
 *	[**Estimate for Your Resources,**](https://www.projectmanager.com/blog/5-tips-for-task-estimating) Different people will complete work  at different rates due to varying levels of skill, experience and confidence in their work. Work will progress faster if you assign the best people to work on tasks they know and understand. Save time on your project by using experienced resources and save on-the-job learning and mentoring for another time.
 *	[**Cost of developing requirements,**](https://www.teamgantt.com/guide-to-project-management/how-to-estimate-projects) An essential factor to be considered by the product owner. Value and cost together indicate the Return on Investment (RoI) for the requirements.
 *	Amount and **significance of functionality** that will be gained while working on the requirements.
 *	Understanding the **level of risks** involved in introducing the new features.
 
-#### **Prioritization Techniques**
+#### Prioritization Techniques
 Follow the _**relative weighting scheme**_ when trying to prioritise any task. It is a simple model where prioritization is done based on all the factors of the task. Major factors to be considered when weighing prioritization are:
 *	The **value of the feature** and the negative impact that might be caused by the absence of the feature
 *	Based on the collective judgment from product owner and the development team, a weight is assigned to each feature in the following way (a scoreboard from 1 to 9 is usually used)
@@ -66,23 +66,23 @@ Follow the _**relative weighting scheme**_ when trying to prioritise any task. I
      * The priority and rank are then determined by dividing the value score as below: 
      * (Benefit score + Penalty score) / (Cost score + Risk score)
 
-#### **Story Point Diagram**
+#### Story Point Diagram
 ![Story Point Diagram](https://i0.wp.com/michaellant.com/wp-content/uploads/2010/05/StoryPriority.jpg)
 
-## **Coding Standards**
+## Coding Standards
 
 It is important to realise that your programming choices will reflect the quality
 of your code and impact the productivity levels of your colleagues. Multidots - an agency specialising in web development for content publishers [coding standards guideline](https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/) highlights the importance of code quality and coding standards for improving efficiency, minimising risk of project failure, reducing complexity and simplifying debugging processes.
 
-### **General Programming Practices**
+### General Programming Practices
 
-#### **Naming Conventions**
+#### Naming Conventions
 
 * Use meaningful variable names throughout your code
 * Maintain a consistent naming style for classes, functions and files
 * Names should be explanatory of the object or the functionality of the methods that carry them. 
 
-#### ••Formatting and Layout**
+#### Formatting and Layout
 
 To work together as a team, it is important that each developer effectively formats code,  tools and ensures code is well-segmented and easy to read. 
 
@@ -91,7 +91,7 @@ To work together as a team, it is important that each developer effectively form
 
 For all programming languages refer to general [guidelines](https://firefox-source-docs.mozilla.org/code-quality/coding-style/index.html) for coding and formatting styles recommended by the Firefox development team.
 
-### **Developement Style**
+### Developement Style
 
 **Reusability**
 
@@ -129,44 +129,4 @@ Overly complex structures and unnecessary code can be avoided by effective refac
 * Long classes - split into more classes
 * Overly-nested and long functions
 * Long parameter lists
-
-
-
-## **Code Reviews**
-
-### **Detailed and Informative Commit Messages**
-
-A commit message is a message attached to a commit describing that commit. 
-When you write a commit message you are writing it as if your changes are about to be applied, you are not writing about what you just did. Read more [here](https://medium.com/@andrewhowdencom/anatomy-of-a-good-commit-message-acd9c4490437). 
-
-**Some helpful tips:**
-*	Separate subject from body with a blank line
-*	Limit the subject line to 50 lines
-*	Capitalize the subject line
-*	Do not end the subject line with a period
-*	Use the imperative mood in the subject line
-*	Wrap the body at 72 characters
-*	Use the body to explain *what* and *why* vs. *how*
-
-Read more on these points [here](https://chris.beams.io/posts/git-commit/)
-
-**Some things to avoid:**
-*	Do not associate any bugs\user story to the commit message
-*	Do not write anything about the problem
-*	Do not write anything about the Fix 
-*	Do not Atomize
-
-Read more about these points [here](https://www.linkedin.com/pulse/how-write-very-bad-commit-messages-ran-bar-zik/)
-
-**Bad Commit Messages:**
-
-![Bad Commit Messages](badcommit.png)
-
-**Good Commit Messages:**
-
-[Good Commit Messages](goodcommit.jpg)
-
-
-
-
 
