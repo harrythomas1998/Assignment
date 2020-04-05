@@ -19,7 +19,7 @@ If you want to read further click [here](https://www.workamajig.com/blog/guide-t
 
 ![WBS Diagram](bdt.png)
 
-## Three-point estimation
+### Three-point estimation
 
 After splitting the tasks into sub tasks, you now must ask the team or person responsible for each sub task to provide a three-point estimation.
 
@@ -47,7 +47,7 @@ Use three-point estimation for each task in your schedule, it will ensure that y
 [Read more here for some more detailed information](https://www.merixstudio.com/blog/three-point-estimation-software-development/ )
 
 
-## Evaluate Importance and Priority
+### Evaluate Importance and Priority
 
 #### Prioritization Factors
 *	[**Estimate for Your Resources,**](https://www.projectmanager.com/blog/5-tips-for-task-estimating) Different people will complete work  at different rates due to varying levels of skill, experience and confidence in their work. Work will progress faster if you assign the best people to work on tasks they know and understand. Save time on your project by using experienced resources and save on-the-job learning and mentoring for another time.
@@ -69,7 +69,7 @@ Follow the _**relative weighting scheme**_ when trying to prioritise any task. I
 #### Story Point Diagram
 ![Story Point Diagram](https://i0.wp.com/michaellant.com/wp-content/uploads/2010/05/StoryPriority.jpg)
 
-### Coding Standards
+## Coding Standards
 
 It is important to realise that your programming choices will reflect the quality
 of your code and impact the productivity levels of your colleagues. Multidots - an agency specialising in web development for content publishers [coding standards guideline](https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/) highlights the importance of code quality and coding standards for improving efficiency, minimising risk of project failure, reducing complexity and simplifying debugging processes.
