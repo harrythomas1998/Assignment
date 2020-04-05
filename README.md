@@ -134,7 +134,7 @@ Overly complex structures and unnecessary code can be avoided by effective refac
 
 ### Code Review Workflow
 
-To ensure we keep code review processing times low and make the most of our time both in development and as a team, it is important to follow a clear and efficient review structure, with excellent use of [git flow processes](https://gist.github.com/cferdinandi/ef665330286fd5d7127d).
+To ensure we keep code review processing times low and make the most of our time both in development and as a team, it is important to follow a clear and efficient review structure, with excellent use of [git commands cheatsheet](https://gist.github.com/cferdinandi/ef665330286fd5d7127d).
 
  Communication is key, and collaborators should agree on regular review times and provide detailed feedback to ensure developers are complying with the coding standards. Ensure constructive, yet informative feedback that will be useful for further self-development of your colleagues.
 
@@ -159,9 +159,9 @@ The goal of a review is to
 
 [These practices](https://www.perforce.com/blog/qac/9-best-practices-for-code-review) by Perforce, a software development company gives useful information for best code review processes. 
 
-![Cricible team workflow]https://confluence.atlassian.com/crucible/files/298977486/299140917/2/1346046215515/Moderated+review.png
+![Cricible team workflow](https://confluence.atlassian.com/crucible/files/298977486/299140917/2/1346046215515/Moderated+review.png)
 
-[The Crucible Workflow](https://confluence.atlassian.com/crucible/defining-your-workflow-298977486.html)
+![The Crucible Workflow](https://confluence.atlassian.com/crucible/defining-your-workflow-298977486.html)
 
 
 [Microsoft Code Review Practices](https://www.slideshare.net/mgreiler/on-to-code-review-lessons-learned-at-microsoft)
