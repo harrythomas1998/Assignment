@@ -132,11 +132,11 @@ Overly complex structures and unnecessary code can be avoided by effective refac
 
 ## **Code Reviews**
 
-### Code Review Workflow
+### Workflow
 
 Developers must use Git to collaborate on development projects. 
 
-To ensure we keep code processing short and make the most of our time both in development and as a team, it is important to follow submit structured work. Refer to the [git commands cheat sheet]()(https://gist.github.com/cferdinandi/ef665330286fd5d7127d) for a list of all commands that can be used for effective git-flow processes.
+To ensure we keep code processing short and make the most of our time both in development and as a team, it is important to follow submit structured work. Refer to the [git commands cheat sheet](https://gist.github.com/cferdinandi/ef665330286fd5d7127d) for a list of all commands that can be used for effective git-flow processes.
 
 Communication is key and team members are expected to prioritize each other's work to maintain a good workflow. 
 
@@ -146,7 +146,7 @@ It is the responsibility of all team members to:
 * Communicate all feedback during reviews, this includes questions
 * Test before and during reviews to avoid bugs making it to production
 
-This example of [Crucible's team workflow](https://confluence.atlassian.com/crucible/defining-your-workflow-298977486.html) explains the various types of code reviews. 
+This example of [Crucible's team workflow](https://confluence.atlassian.com/crucible/defining-your-workflow-298977486.html) explains the various types of teams and code reviews. 
 
 
 ![Crucible team workflow](https://confluence.atlassian.com/crucible/files/298977486/299958592/3/1346045693851/one-to-one-review.png)
@@ -167,10 +167,10 @@ The goal of a review is to
 * Identify as many bugs as possible before launching the code to production
 
 
- To keep reviews efficient processes must
+ To keep reviews efficient processes must be
 
-* Be short, fast and focused
-* Be smaller chunks of code - developers are expected to submit smaller workloads
+* Short, fast and focused
+* Smaller chunks of code - developers are expected to submit smaller workloads
 
 This will allow reviewers to stay focused and minimise error and the possibility of missing bugs, which will help achieve the best results during the review process. 
 
