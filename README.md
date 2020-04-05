@@ -130,3 +130,44 @@ Overly complex structures and unnecessary code can be avoided by effective refac
 * Overly-nested and long functions
 * Long parameter lists
 
+## **Code Reviews**
+
+### **Detailed and Informative Commit Messages**
+
+A commit message is a message attached to a commit describing that commit. 
+When you write a commit message you are writing it as if your changes are about to be applied, you are not writing about what you just did. Detailed and informative commit messages speed up the code reviews and make it easier to write release notes.  
+
+If you want to read more on good commit messages use these links 
+
+
+**Some helpful tips:**
+*	Separate subject from body with a blank line
+*	Limit the subject line to 50 lines
+*	Capitalize the subject line
+*	Use the imperative mood in the subject line
+*	Wrap the body at 72 characters
+*	Use the body to explain *what* and *why* vs. *how*
+
+**Some things to avoid:**
+*	Associate any bugs\user story to the commit message
+*    Writing about the problem
+*	Writing about the Fix 
+*	Atomize(break up into small units)
+*    End the subject line with a period
+
+If you want to read more on good commit messages use these links:
+
+[Link 1](https://medium.com/@andrewhowdencom/anatomy-of-a-good-commit-message-acd9c4490437)
+
+[Link 2](https://chris.beams.io/posts/git-commit/)
+
+[Link 3](https://www.linkedin.com/pulse/how-write-very-bad-commit-messages-ran-bar-zik/)
+
+
+**Bad Commit Messages:**
+
+![Bad Commit Messages](badcommit.png)
+
+**Good Commit Messages:**
+
+[Good Commit Messages](goodcommit.png)
