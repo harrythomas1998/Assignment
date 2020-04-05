@@ -161,10 +161,10 @@ The goal of a review is to
 
 ![Cricible team workflow](https://confluence.atlassian.com/crucible/files/298977486/299140917/2/1346046215515/Moderated+review.png)
 
-![The Crucible Workflow](https://confluence.atlassian.com/crucible/defining-your-workflow-298977486.html)
+[The Crucible Workflow](https://confluence.atlassian.com/crucible/defining-your-workflow-298977486.html)
 
 
 [Microsoft Code Review Practices](https://www.slideshare.net/mgreiler/on-to-code-review-lessons-learned-at-microsoft)
 
-![Code Review Processes Diagram]https://image.slidesharecdn.com/ontocodereviewlessonslearnedatmicrosoft-160921120651/95/on-to-code-review-lessons-learned-at-microsoft-7-638.jpg?cb=1474459748
+![Code Review Processes Diagram](https://image.slidesharecdn.com/ontocodereviewlessonslearnedatmicrosoft-160921120651/95/on-to-code-review-lessons-learned-at-microsoft-7-638.jpg?cb=1474459748)
 
