@@ -132,6 +132,8 @@ Overly complex structures and unnecessary code can be avoided by effective refac
 
 ## **Code Reviews**
 
+### Code Review Workflow
+
 To ensure we keep code review processing times low and make the most of our time both in development and as a team, it is important to follow a clear and efficient review structure, with excellent use of [git flow processes](https://gist.github.com/cferdinandi/ef665330286fd5d7127d).
 
  Communication is key, and collaborators should agree on regular review times and provide detailed feedback to ensure developers are complying with the coding standards. Ensure constructive, yet informative feedback that will be useful for further self-development of your colleagues.
