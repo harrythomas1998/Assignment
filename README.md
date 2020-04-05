@@ -134,14 +134,28 @@ Overly complex structures and unnecessary code can be avoided by effective refac
 
 ### Code Review Workflow
 
-To ensure we keep code review processing times low and make the most of our time both in development and as a team, it is important to follow a clear and efficient review structure, with excellent use of [git commands cheatsheet](https://gist.github.com/cferdinandi/ef665330286fd5d7127d).
+Developers must use Git to collaborate on development projects. 
 
- Communication is key, and collaborators should agree on regular review times and provide detailed feedback to ensure developers are complying with the coding standards. Ensure constructive, yet informative feedback that will be useful for further self-development of your colleagues.
+To ensure we keep code processing short and make the most of our time both in development and as a team, it is important to follow submit structured work. Refer to the [git commands cheat sheet]()(https://gist.github.com/cferdinandi/ef665330286fd5d7127d) for a list of all commands that can be used for effective git-flow processes.
+
+Communication is key and team members are expected to prioritize each other's work to maintain a good workflow. 
+
+It is the responsibility of all team members to:
+
+* Allocate time for daily and weekly reviews
+* Communicate all feedback during reviews, this includes questions
+* Test before and during reviews to avoid bugs making it to production
+
+This example of [Crucible's team workflow](https://confluence.atlassian.com/crucible/defining-your-workflow-298977486.html) explains the various types of code reviews. 
+
+
+![Crucible team workflow](https://confluence.atlassian.com/crucible/files/298977486/299958592/3/1346045693851/one-to-one-review.png)
+
 
 #### Plan the review
 
-When carrying out reviews refer to project tasks and the sub-tasks to identify the goals of your reviews. 
-This will help you focus on the functionality that the code should deliver and ensure all expected standards are met. 
+* Identify the goal of the review - functionality, code quality, etc.
+* Focus on single functionality/ aspects of code to maintain focus
 
 Know what you are looking for in the code - what should be included/used and what should be avoided
 
@@ -153,18 +167,18 @@ The goal of a review is to
 * Identify as many bugs as possible before launching the code to production
 
 
- To keep reviews efficient, 
- 
-  they should be short and focus on smaller chunks of code rather than multiple files. This also applies to developers, who are expected to request reviews for smaller workloads. This will keep the reviewers attentive and achieve the best results.  
+ To keep reviews efficient processes must
 
-[These practices](https://www.perforce.com/blog/qac/9-best-practices-for-code-review) by Perforce, a software development company gives useful information for best code review processes. 
+* Be short, fast and focused
+* Be smaller chunks of code - developers are expected to submit smaller workloads
 
-![Cricible team workflow](https://confluence.atlassian.com/crucible/files/298977486/299140917/2/1346046215515/Moderated+review.png)
+This will allow reviewers to stay focused and minimise error and the possibility of missing bugs, which will help achieve the best results during the review process. 
 
-[The Crucible Workflow](https://confluence.atlassian.com/crucible/defining-your-workflow-298977486.html)
+[These practices](https://www.perforce.com/blog/qac/9-best-practices-for-code-review) by Perforce, a software development company give useful information for best code review results. 
 
 
-[Microsoft Code Review Practices](https://www.slideshare.net/mgreiler/on-to-code-review-lessons-learned-at-microsoft)
 
-![Code Review Processes Diagram](https://image.slidesharecdn.com/ontocodereviewlessonslearnedatmicrosoft-160921120651/95/on-to-code-review-lessons-learned-at-microsoft-7-638.jpg?cb=1474459748)
+
+
+
 
