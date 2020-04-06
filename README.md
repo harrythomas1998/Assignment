@@ -140,10 +140,10 @@ Checklists are the most effective way to eliminate frequently made errors. Code 
 The best way to ensure that defects are fixed is to use a collaborative code review tool that allows reviewers to log bugs, discuss them with the author, and approve changes in the code.
 
 #### Foster a positive code review culture
-To make code reviews successful, it is important that managers create a positive culture of collaboration and learning in peer review.
+To make code reviews successful, it is important that managers are able create a positive culture of collaboration and learning in peer review.
 While it´s easy to see defects as purely negative, each bug can actually be an opportunity for the team to improve code quality. Peer review also allows junior team members to learn from senior leaders and for even the most experienced programmers to break bad habits.
 
-####[Read more here...](https://smartbear.com/learn/code-review/guide-to-code-review-process/)
+#### [Read more here...](https://smartbear.com/learn/code-review/guide-to-code-review-process/)
 
-### Code Review Checklist
+### Code Reviews
 ![Code Reviews](codeReviewMeme.png)
