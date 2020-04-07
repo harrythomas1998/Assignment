@@ -1,7 +1,7 @@
 # Commenting and Documentation Standards
 It is very important to add comments to your code, although it seems like a straightforward task comment **doesn’t** mean add a bunch of comments and random documentation anywhere while coding.
 
-Commenting involves mentioning the right things to help yourself and your colleagues’ when coding. 
+Commenting involves mentioning the right things to help yourself and your colleagues when coding. 
 
 Firstly, we should describe **what** we are creating, **why** we are creating it and **what** our main **goal** is that we would like to achieve here. 
 
@@ -26,7 +26,5 @@ Adding **@TODOs** is also very important as it is common in coding for people to
 
 Lastly a *“Docblock”* is a special code comment; it offers an explanation for the porpose of the code such as return values, arguments and exceptions for a block of code.
 
-
-A *“Docblock”* is a special code comment that offers an explanation of the purpose, arguments, return values, and throw exceptions for a block of code.
 
 ![Alt Text](https://lhuria94.github.io/assets/img/2017-07-26-coding-standards-that-matter/docblock-example.png)
