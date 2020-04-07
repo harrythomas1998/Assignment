@@ -1,32 +1,12 @@
-# Commenting and Documentation Standards
-It is very important to add comments to your code, although it seems like a straightforward task comment **doesn’t** mean add a bunch of comments and random documentation anywhere while coding.
+### Automating the process
 
-Commenting involves mentioning the right things to help yourself and your colleagues’ when coding. 
-
-Firstly, we should describe **what** we are creating, **why** we are creating it and **what** our main **goal** is that we would like to achieve here. 
-
-If there are any changes being carried out these should be logged by creating a changelog .md file and attach it to your component. *Eg:*
-
-   ![Alt Text](https://lhuria94.github.io/assets/img/2017-07-26-coding-standards-that-matter/changelog.png)
+Humans are **far** superior to machines in the review code process when it comes to complexity and solving problems. Although humans have a small attention span; therefore, as humans our time is valuable and shouldn’t be wasted on repetitive tasks a machine can do easily.
 
 
-It is also good practice and we recommend you add **@See**, referencing the class, which will further help you and your colleagues’ to easily navigate to that class definition with just one click
+Additionally, we tend to make more mistakes on repetitive tasks as we lose concertation; some of these tasks include code style. These kinds of tasks can be rather boring. Doing these tasks will take away from valuable time that could be possibly spent on engineering etc. further even after donating time to this there will **still** be errors. 
+
+![Alt Text](https://miro.medium.com/max/1384/1*n9XXmBStsvGt1Rk6RWfidg.jpeg)
+
+We must offload automatable jobs to machines in the code review process. Repetitive task like code style checking, lining, static code analysis, code complexity calculation, code coverage calculation, execution of tests is the kind of reviews that should be automated. One of the tools I recommend you use is Codecov it is particularly good for code coverage reporting and a CI to integrate everything
 
 
-
-![Alt Text](https://lhuria94.github.io/assets/img/2017-07-26-coding-standards-that-matter/fn-referencing.png)
-
-Adding **@TODOs** is also very important as it is common in coding for people to complete the general function of something and have plans to add additional improvements although not enough time at present and then come the end of the project, they have completely forgotten to add those improvements. 
-
-**@TODOs** will help ensure you do not forget again. It is quite simple to implement, just mention what needs to be improved above the code, *example:*
-
-
-![Alt Text](https://lhuria94.github.io/assets/img/2017-07-26-coding-standards-that-matter/todo-example.png)
-
-
-Lastly a *“Docblock”* is a special code comment; it offers an explanation for the porpose of the code such as return values, arguments and exceptions for a block of code.
-
-
-A *“Docblock”* is a special code comment that offers an explanation of the purpose, arguments, return values, and throw exceptions for a block of code.
-
-![Alt Text](https://lhuria94.github.io/assets/img/2017-07-26-coding-standards-that-matter/docblock-example.png)
