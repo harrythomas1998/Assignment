@@ -9,4 +9,6 @@ Additionally, we tend to make more mistakes on repetitive tasks as we lose conce
 
 We must offload automatable jobs to machines in the code review process. Repetitive task like code style checking, lining, static code analysis, code complexity calculation, code coverage calculation, execution of tests is the kind of reviews that should be automated. One of the tools I recommend you use is Codecov it is particularly good for code coverage reporting and a CI to integrate everything
 
+For more reading check out here: [What makes a great code review](https://smartbear.com/learn/code-review/what-makes-a-great-code-review/)
+
 
