@@ -96,9 +96,14 @@ For all programming languages refer to the general [guidelines](https://firefox-
 **Reusability**
 
 It is encouraged to become familiar with reusable coding patterns and apply them in all development stages throughout projects. It will
+
 * Reduce the amount of code we have to write
 * Increase in team efficiency
 * Allow us to maximise resources and development times
+
+As can be seen below, you can write short reusable functions to reduce duplication and the number of code to be written.
+
+![Reusable functions](https://qph.fs.quoracdn.net/main-qimg-d40e3900923b57874975294cb8c57598.webp)
 
 Refer to [Perforce's Code Reuse Strategy](https://www.perforce.com/blog/qac/challenge-code-reuse-and-how-reuse-code-effectively) for further recommendations on the best practices to apply. 
 
