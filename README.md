@@ -161,13 +161,13 @@ Know what you are looking for in the code - what should be included/used and wha
 
 #### Review process
 
-The goal of a review is to
+The goal of a review is to:
 
 * Ensure core functionality is delivered
 * Identify as many bugs as possible before launching the code to production
 
 
- To keep reviews efficient processes must be
+ To keep reviews efficient processes must be:
 
 * Short, fast and focused
 * Smaller chunks of code - developers are expected to submit smaller workloads
