@@ -157,11 +157,13 @@ If you want to read more on good commit messages use these links
 
 If you want to read more on good commit messages use these links:
 
-[Link 1](https://medium.com/@andrewhowdencom/anatomy-of-a-good-commit-message-acd9c4490437)
-
-[Link 2](https://chris.beams.io/posts/git-commit/)
-
-[Link 3](https://www.linkedin.com/pulse/how-write-very-bad-commit-messages-ran-bar-zik/)
+**Extra Reading:**
+*    Anatomy of a good commit message:
+     [Link](https://medium.com/@andrewhowdencom/anatomy-of-a-good-commit-message-acd9c4490437)
+*    Git Commits:
+     [Link](https://chris.beams.io/posts/git-commit/)
+*    How to write bad commit messages:
+     [Link](https://www.linkedin.com/pulse/how-write-very-bad-commit-messages-ran-bar-zik/)
 
 
 **Bad Commit Messages:**
