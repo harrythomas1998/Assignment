@@ -146,3 +146,20 @@ We must offload automatable jobs to machines in the code review process. Repetit
 
 For more reading check out here: [What makes a great code review](https://smartbear.com/learn/code-review/what-makes-a-great-code-review/)
 
+
+### Evaluation Feedback process
+
+#### Use checklists
+Checklists are the most effective way to eliminate frequently made errors. Code review checklists also provide team members with clear expectations for each type of review and can be helpful to track for reporting and process improvement purposes.
+
+#### Establish a process for fixing defects found
+The best way to ensure that defects are fixed is to use a collaborative code review tool that allows reviewers to log bugs, discuss them with the author, and approve changes in the code. There are many options available today that each company should look into to try find the one that will meet their needs and requirements. [List of reccomended ones to choose from...](https://www.softwaretestinghelp.com/code-review-tools/)
+
+#### Foster a positive code review culture
+To make code reviews successful, it is important that managers are able create a positive culture of collaboration and learning in peer review.
+While it´s easy to see defects as purely negative, each bug can actually be an opportunity for the team to improve code quality. Peer review also allows junior team members to learn from senior leaders and for even the most experienced programmers to break bad habits.
+
+#### [Read more here...](https://smartbear.com/learn/code-review/guide-to-code-review-process/)
+
+### Code Reviews
+![Code Reviews](codeReviewMeme.png)
