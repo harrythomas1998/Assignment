@@ -113,10 +113,11 @@ It ensures
 
 Further information about component-based development patterns can be found in [Jack Pritchard's CDD Insights Article](https://whatjackhasmade.co.uk/component-driven-development). 
 
-
 **Refactoring**
 
-Overly complex structures and unnecessary code can be avoided by effective refactoring practices which should be done by all developers before code review. 
+Overly complex structures and unnecessary code can be avoided by effective refactoring practices which should be done by all developers before code review. Follow this TDD (Test Driven Developement) cycle by Alexsoft as described in their [best practices](https://www.altexsoft.com/blog/engineering/code-refactoring-best-practices-when-and-when-not-to-do-it/)
+
+![Red-Green Refactor](https://content.altexsoft.com/media/2018/09/red-green-refactor.png)
 
 *Consider*
 
@@ -147,7 +148,6 @@ It is the responsibility of all team members to:
 * Test before and during reviews to avoid bugs making it to production
 
 This example of [Crucible's team workflow](https://confluence.atlassian.com/crucible/defining-your-workflow-298977486.html) explains the various types of teams and code reviews. 
-
 
 ![Crucible team workflow](https://confluence.atlassian.com/crucible/files/298977486/299958592/3/1346045693851/one-to-one-review.png)
 
