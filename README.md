@@ -223,7 +223,7 @@ If you want to read more on good commit messages use these links:
 
 **Good Commit Messages:**
 
-[Good Commit Messages](goodcommit.png)
+![Good Commit Messages](goodcommit.png)
 
 ### Evaluation Feedback process
 
