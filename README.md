@@ -1,16 +1,3 @@
-### Automating the process
-
-Humans are **far** superior to machines in the review code process when it comes to complexity and solving problems. Although humans have a small attention span; therefore, as humans our time is valuable and shouldn’t be wasted on repetitive tasks a machine can do easily.
-
-
-Additionally, we tend to make more mistakes on repetitive tasks as we lose concertation; some of these tasks include code style. These kinds of tasks can be rather boring. Doing these tasks will take away from valuable time that could be possibly spent on engineering etc. further even after donating time to this there will **still** be errors. 
-
-![Alt Text](https://miro.medium.com/max/1384/1*n9XXmBStsvGt1Rk6RWfidg.jpeg)
-
-We must offload automatable jobs to machines in the code review process. Repetitive task like code style checking, lining, static code analysis, code complexity calculation, code coverage calculation, execution of tests is the kind of reviews that should be automated. One of the tools I recommend you use is Codecov it is particularly good for code coverage reporting and a CI to integrate everything
-
-For more reading check out here: [What makes a great code review](https://smartbear.com/learn/code-review/what-makes-a-great-code-review/)
-
 # Handbook for Best Coding Practices
 
 ## **Task Estimation**
@@ -143,6 +130,51 @@ Overly complex structures and unnecessary code can be avoided by effective refac
 * Overly-nested and long functions
 * Long parameter lists
 
+
+## **Code Reviews**
+
+### **Detailed and Informative Commit Messages**
+
+A commit message is a message attached to a commit describing that commit. 
+When you write a commit message you are writing it as if your changes are about to be applied, you are not writing about what you just did. Detailed and informative commit messages speed up the code reviews and make it easier to write release notes.  
+
+If you want to read more on good commit messages use these links 
+
+
+**Some helpful tips:**
+*	Separate subject from body with a blank line
+*	Limit the subject line to 50 lines
+*	Capitalize the subject line
+*	Use the imperative mood in the subject line
+*	Wrap the body at 72 characters
+*	Use the body to explain *what* and *why* vs. *how*
+
+**Some things to avoid:**
+*	Associate any bugs\user story to the commit message
+*    Writing about the problem
+*	Writing about the Fix 
+*	Atomize(break up into small units)
+*    End the subject line with a period
+
+If you want to read more on good commit messages use these links:
+
+**Extra Reading:**
+*    Anatomy of a good commit message:
+     [Link](https://medium.com/@andrewhowdencom/anatomy-of-a-good-commit-message-acd9c4490437)
+*    Git Commits:
+     [Link](https://chris.beams.io/posts/git-commit/)
+*    How to write bad commit messages:
+     [Link](https://www.linkedin.com/pulse/how-write-very-bad-commit-messages-ran-bar-zik/)
+
+
+**Bad Commit Messages:**
+
+![Bad Commit Messages](badcommit.png)
+
+**Good Commit Messages:**
+
+[Good Commit Messages](goodcommit.png)
+
 ### Evaluation Feedback process
 
 #### Use checklists
@@ -156,6 +188,7 @@ To make code reviews successful, it is important that managers are able create a
 While it´s easy to see defects as purely negative, each bug can actually be an opportunity for the team to improve code quality. Peer review also allows junior team members to learn from senior leaders and for even the most experienced programmers to break bad habits.
 
 #### [Read more here...](https://smartbear.com/learn/code-review/guide-to-code-review-process/)
+
 
 ### Code Reviews
 ![Code Reviews](codeReviewMeme.png)
