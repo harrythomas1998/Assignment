@@ -154,7 +154,7 @@ It is also good practice and we recommend you add **@See**, referencing the clas
 
 ![Alt Text](https://lhuria94.github.io/assets/img/2017-07-26-coding-standards-that-matter/fn-referencing.png)
 
-Adding **@TODOs** is also very important as it is common in coding for people to complete the general function of something and have plans to add additional improvements although not enough time at present and then come the end of the project, they have completely forgotten to add those improvements. 
+Adding **@TODOs** is also very important as it is common in coding for people to complete the general function of something and have plans to add additional improvements although not enough time at present and then come to the end of the project, they have completely forgotten to add those improvements. 
 
 **@TODOs** will help ensure you do not forget again. It is quite simple to implement, just mention what needs to be improved above the code, *example:*
 
@@ -162,7 +162,7 @@ Adding **@TODOs** is also very important as it is common in coding for people to
 ![Alt Text](https://lhuria94.github.io/assets/img/2017-07-26-coding-standards-that-matter/todo-example.png)
 
 
-Lastly a *“Docblock”* is a special code comment; it offers an explanation for the porpose of the code such as return values, arguments and exceptions for a block of code.
+Lastly, a *“Docblock”* is a special code comment; it offers an explanation for the purpose of the code such as return values, arguments and exceptions for a block of code.
 
 
 A *“Docblock”* is a special code comment that offers an explanation of the purpose, arguments, return values, and throw exceptions for a block of code.
@@ -226,18 +226,18 @@ If you want to read more on good commit messages use these links
 
 
 **Some helpful tips:**
-*	Separate subject from body with a blank line
-*	Limit the subject line to 50 lines
-*	Capitalize the subject line
-*	Use the imperative mood in the subject line
-*	Wrap the body at 72 characters
-*	Use the body to explain *what* and *why* vs. *how*
+*    Separate subject from body with a blank line
+*    Limit the subject line to 50 lines
+*    Capitalize the subject line
+*    Use the imperative mood in the subject line
+*    Wrap the body at 72 characters
+*    Use the body to explain *what* and *why* vs. *how*
 
 **Some things to avoid:**
-*	Associate any bugs\user story to the commit message
+*    Associate any bugs\user story to the commit message
 *    Writing about the problem
-*	Writing about the Fix 
-*	Atomize(break up into small units)
+*    Writing about the Fix 
+*    Atomize(break up into small units)
 *    End the subject line with a period
 
 If you want to read more on good commit messages use these links:
@@ -265,10 +265,10 @@ If you want to read more on good commit messages use these links:
 Checklists are the most effective way to eliminate frequently made errors. Code review checklists also provide team members with clear expectations for each type of review and can be helpful to track for reporting and process improvement purposes.
 
 #### Establish a process for fixing defects found
-The best way to ensure that defects are fixed is to use a collaborative code review tool that allows reviewers to log bugs, discuss them with the author, and approve changes in the code. There are many options available today that each company should look into to try find the one that will meet their needs and requirements. [List of reccomended ones to choose from...](https://www.softwaretestinghelp.com/code-review-tools/)
+The best way to ensure that defects are fixed is to use a collaborative code review tool that allows reviewers to log bugs, discuss them with the author, and approve changes in the code. There are many options available today that each company should look into to try to find the one that will meet their needs and requirements. [List of recommended ones to choose from...](https://www.softwaretestinghelp.com/code-review-tools/)
 
 #### Foster a positive code review culture
-To make code reviews successful, it is important that managers are able create a positive culture of collaboration and learning in peer review.
+To make code reviews successful, it is important that managers are able to create a positive culture of collaboration and learning in peer review.
 While it´s easy to see defects as purely negative, each bug can actually be an opportunity for the team to improve code quality. Peer review also allows junior team members to learn from senior leaders and for even the most experienced programmers to break bad habits.
 
 #### [Read more here...](https://smartbear.com/learn/code-review/guide-to-code-review-process/)
@@ -279,14 +279,14 @@ While it´s easy to see defects as purely negative, each bug can actually be an 
 
 ### Automating the process
 
-Humans are **far** superior to machines in the review code process when it comes to complexity and solving problems. Although humans have a small attention span; therefore, as humans our time is valuable and shouldn’t be wasted on repetitive tasks a machine can do easily.
+Humans are **far** superior to machines in the review code process when it comes to complexity and solving problems. Although humans have a small attention span; therefore, as humans, our time is valuable and shouldn’t be wasted on repetitive tasks a machine can do easily.
 
 
-Additionally, we tend to make more mistakes on repetitive tasks as we lose concertation; some of these tasks include code style. These kinds of tasks can be rather boring. Doing these tasks will take away from valuable time that could be possibly spent on engineering etc. further even after donating time to this there will **still** be errors. 
+Additionally, we tend to make more mistakes on repetitive tasks as we lose concertation; some of these tasks include code style. These kinds of tasks can be rather boring. Doing these tasks will take away from valuable time that could be possibly spent on engineering etc. further even after donating time to this, there will **still** be errors. 
 
 ![Alt Text](https://miro.medium.com/max/1384/1*n9XXmBStsvGt1Rk6RWfidg.jpeg)
 
-We must offload automatable jobs to machines in the code review process. Repetitive task like code style checking, lining, static code analysis, code complexity calculation, code coverage calculation, execution of tests is the kind of reviews that should be automated. One of the tools I recommend you use is Codecov it is particularly good for code coverage reporting and a CI to integrate everything
+We must offload automatable jobs to machines in the code review process. A repetitive task like code style checking, lining, static code analysis, code complexity calculation, code coverage calculation, execution of tests is the kind of reviews that should be automated. One of the tools I recommend you use is Codecov it is particularly good for code coverage reporting and a CI to integrate everything
 
 For more reading check out here: [What makes a great code review](https://smartbear.com/learn/code-review/what-makes-a-great-code-review/)
 
