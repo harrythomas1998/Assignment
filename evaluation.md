@@ -10,11 +10,7 @@ To further improve team collaboration skills and increase efficiency when comple
 
 * Due to the current circumstances face to face meetings are not possible. It would be better for team productivity and collaboration to meet in person and have an open discussion. 
 
-#### Harrys Evaluation
-
 Overall our project could have gone better. 
-
-Our communication was good as we spent a lot of time talking on skype.
 
 We struggled with the gitflow process. We ran into issues when resolving conflicts and merging. We should have had a develop branch instead of just merging straight to master. If I were to do this project again that’s would be the main thing I would do differently.
 
